@@ -1,0 +1,40 @@
+body {
+    background-color: #fff;
+    background-image: url("./back.jpg");
+    background-size: cover;
+    border-color: #000;
+    margin-left: 20px;
+}
+
+a:active {
+    color: #008;
+}
+
+a:visited {
+    color: #707;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #635d45;
+    font-family: 'IM Fell Double Pica SC';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family:Arial,sans-serif;
+    font-size:16px;
+    margin-top: -12px;
+    margin-bottom: 24px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+#wrapper {
+    letter-spacing: 1px;
+}
