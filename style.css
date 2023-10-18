@@ -2,7 +2,7 @@ body {
     background-color: #fff;
     background-image: url("./back.jpg");
     background-size: cover;
-    margin-left: 20px;
+    font-family: 'IM Fell Double Pica SC';
 }
 
 a:active {
@@ -15,7 +15,6 @@ a:visited {
 
 h1, h2, h3, h4, h5, h6 {
     color: #635d45;
-    font-family: 'IM Fell Double Pica SC';
     font-size: 30px;
     font-style: normal;
     font-weight: 700;
@@ -24,16 +23,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-family:Arial,sans-serif;
-    font-size:16px;
-    margin-top: -12px;
+    font-size: 16px;
+    margin-top: -6px;
     margin-bottom: 24px;
 }
 
 li {
-    margin-bottom: 12px;
+    margin-bottom: 4px;
 }
 
 #wrapper {
+    padding: 20px;
     letter-spacing: 1px;
+    margin: 10px 4px;
 }
